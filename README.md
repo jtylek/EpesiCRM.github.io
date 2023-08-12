@@ -1,5 +1,6 @@
 # Epesi CRM
 ## Kickstarter for cloud ERP
+### FOSS alternative to Salesforce
 
 Free and fully open sourced CRM and PHP framework.
 Flexible MIT license. Unlimited users.
