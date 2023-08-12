@@ -1,2 +1,5 @@
-# EpesiCRM.github.io
-Epesi CRM GitHub 
+# EpesiCRM
+Free and open source cloud native CRM and PHP framework.
+MIT License
+
+Copyright (c) 2006-2023 by Janusz Tylek and Karina Tylek
